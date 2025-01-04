@@ -1,11 +1,8 @@
 ## Install Dependencies
 ```sh 
-pip3 install -r ./requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
 You need to have [ffmpeg](https://www.ffmpeg.org/) installed and only `.mp4` files are supported.
-Place your `.mp4` into the `/input` folder and call
-```sh
-python3 src/main.py -i <name_of_video>
-```
+You should place videos in the input folder, but you also do have the options of chosing your own directory. However it defualts to the iput and output folders. 

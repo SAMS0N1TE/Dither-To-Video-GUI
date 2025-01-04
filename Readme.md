@@ -1,6 +1,6 @@
 ## Introduction
 
-The ** Dither-To-Video App** is a Python-based GUI application that allows users to apply various dithering algorithms to videos. Enhance your videos with artistic dithering effects, adjust image parameters, and preview changes in real-time.
+The **Dither-To-Video App** is a Python-based GUI application that allows users to apply various dithering algorithms to videos. Enhance your videos with artistic dithering effects, adjust image parameters, and preview changes in real-time.
 
 ## Features
 

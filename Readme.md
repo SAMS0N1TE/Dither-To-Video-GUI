@@ -44,3 +44,10 @@ pip install -r requirements.txt
 ```
 Run python src/main.py
 ```
+
+
+# Examples
+![Screenshot 2025-01-04 115553](https://github.com/user-attachments/assets/f79d88cc-f562-4be0-b6f6-299b074c87d9)
+
+Exported as MP4 at the lowest resolution, pattern dithering, then converted to a GIF.
+![lowres](https://github.com/user-attachments/assets/b8cf7481-6b8b-483c-9a1d-c3bb3b9d6f11)

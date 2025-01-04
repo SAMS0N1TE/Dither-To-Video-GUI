@@ -14,6 +14,15 @@ The **Advanced Video Dithering App** is a Python-based GUI application that allo
 - **Preserve Original Colors:** Blend dithered frames with original colors for enhanced effects.
 - **Progress Tracking:** Visual progress bar during video processing.
 
+### Steps
+You need to have [ffmpeg](https://www.ffmpeg.org/) installed and only `.mp4` files are supported.
+You should place videos in the input folder, but you also do have the options of chosing your own directory. However it defaults to the iput and output folders. 
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/your-username/dither-video-app.git
+   cd dither-video-app
 
 ## Install Dependencies
 You should probably use a venv
@@ -31,8 +40,6 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-You need to have [ffmpeg](https://www.ffmpeg.org/) installed and only `.mp4` files are supported.
-You should place videos in the input folder, but you also do have the options of chosing your own directory. However it defaults to the iput and output folders. 
 
 ```
 Run python src/main.py

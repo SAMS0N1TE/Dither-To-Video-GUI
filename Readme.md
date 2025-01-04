@@ -15,6 +15,10 @@ The **Advanced Video Dithering App** is a Python-based GUI application that allo
 - **Progress Tracking:** Visual progress bar during video processing.
 
 ### Steps
+
+### Windows Executable Download
+- [HERE](https://github.com/SAMS0N1TE/Dither-To-Video-GUI/releases/tag/Dithering)
+
 You need to have [ffmpeg](https://www.ffmpeg.org/) installed and only `.mp4` files are supported.
 You should place videos in the input folder, but you also do have the options of chosing your own directory. However it defaults to the iput and output folders. 
 

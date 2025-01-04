@@ -8,6 +8,7 @@ source venv/bin/activate
 ```
 venv\Scripts\activate
 ```
+# Run:
 ```sh 
 pip install -r requirements.txt
 ```

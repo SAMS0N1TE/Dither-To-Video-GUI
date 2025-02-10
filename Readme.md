@@ -27,7 +27,7 @@ You should place videos in the input folder, but you also do have the options of
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/dither-video-app.git
+   git clone https://github.com/SAMS0N1TE/dither-video-app.git
    cd dither-video-app
 
 ## Install Dependencies
